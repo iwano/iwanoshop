@@ -13,8 +13,8 @@ module ShopifyApp
   class Application < Rails::Application
     
     # Shopify API connection credentials:
-    config.shopify.api_key = "b25e9b8aff10e8ac6f8c22a1921503ab"
-    config.shopify.secret = "59ab2d2189505d8f35b0cbffbe1033b2"
+    config.shopify.api_key = "d8428249370f15551c03021f7cfeac93"
+    config.shopify.secret = "6c42f7fb24b216aeacc9edb2a50a0a29"
     
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
